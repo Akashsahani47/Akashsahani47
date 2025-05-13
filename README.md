@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Akash Kumar 👋
 
-<!--
-**Akashsahani47/Akashsahani47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student at Galgotias University  
+💻 Full Stack Developer | MERN Stack | Backend Enthusiast  
+🚀 Passionate about building real-world web applications  
+🌱 Currently mastering React, Node.js & MongoDB  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourusername)
 
-Here are some ideas to get you started:
+### 🚀 My Tech Stack:
+- 🔹 HTML | CSS | JavaScript
+- 🔹 React | Tailwind CSS | Bootstrap
+- 🔹 Node.js | Express.js | MongoDB
+- 🔹 Git & GitHub | Firebase | APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- [Code Reviews 🔍](https://github.com/yourusername/code-reviews)
+- [MyDrive 📂](https://github.com/yourusername/mydrive)
+- [Weather App ⛅](https://github.com/yourusername/weather-app)
+
+---
