@@ -11,7 +11,7 @@
 - 💻 Passionate about **Full Stack Web Development**
 - 🚀 Currently diving deeper into **React**, **Node.js**, and **MongoDB**
 - 🌟 Love to create real-world solutions using code
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/akash-kumar-3a7928222/)
 
 ---
 
